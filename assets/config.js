@@ -1,6 +1,8 @@
 vnoConfig = {
   siteName: '',
   dateFormat: '',
+  smartQuotes: '',
+  replacer: [],
   cdn: '',
   cacheKey: '',
   paths: {
